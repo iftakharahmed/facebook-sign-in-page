@@ -1,0 +1,160 @@
+body {
+	background-color:LightGray;
+	margin:0;
+	padding:0;
+}
+
+#table_a {
+	background-color:rgb(66 103 178);
+}
+
+#tr_a {
+	height:130px;
+}
+
+#td_a {
+	width:07%;
+}
+#td_b {
+	width:50%;
+	font-family:Georgia;
+	color:white;
+	font-size:23px
+}
+
+#td_c {
+	width:16%;
+	color:white;
+}
+
+#td_d {
+	width:16%;
+	color:white;
+}
+
+#ahref_a {
+	font-size:16px;
+	color:white;
+	text-decoration:none;
+}
+
+#td_e {
+	width:16%;
+}
+
+#btn_a {
+	border-style:inset;
+	background-color:rgb(66 103 178);
+	box-shadow: 2px 07px 07px 0px black; 
+	height:25px;
+	width:70px;
+	font-size:15px;
+	color:white
+}
+
+#td_f {
+	width:03%;
+}
+
+#td_g {
+	width:46%;
+}
+
+#detils_a {
+	font-family:Georgia;
+	font-size:22px;
+	color:rgb(66 103 178);
+}
+
+#img_a {
+	width:550px;
+	height:250px;
+}
+
+#td_h {
+	width:16%;
+}
+
+#sign_up_btn {
+	color:rgb(66 103 178);
+}
+
+#line_a {
+	width:350px;
+	height:1px;
+	background:black;
+	display:block;
+}
+
+#input_box_a{
+	height:30px;
+	margin-left:48px;
+}
+
+#input_box_b {
+	height:30px;
+	margin-left:50px;
+}
+
+#input_box_c {
+	height:30px;
+	margin-left:48px;
+}
+
+#input_box_d {
+	height:30px;
+	margin-left:25px;
+}
+
+#input_box_e {
+	height:30px;
+	margin-left:30px;
+}
+
+#lable_a {
+	margin-left:100px;
+}
+
+#genderbox {
+	height:30px;
+}
+
+#lable_b {
+	margin-left:70px;
+}
+
+#monthbox {
+	height:30px;
+}
+
+#datebox {
+	height:30px;
+	margin-left:15px;
+}
+
+#yearbox{
+	height:30px;
+	margin-left:15px;
+}
+
+#sign_in_btn {
+	margin-left:190;
+	background-color:green;
+	box-shadow: 2px 07px 07px 0px grey; 
+	height:30px;
+	width:100px;
+	font-size:16px;
+	color:white;
+}
+
+#line_b {
+	width:400px;
+	height:1px;
+	background:black;
+	display:block;
+}
+
+#end_detils {
+	text-align:center;
+	font-family:Georgia;
+}
